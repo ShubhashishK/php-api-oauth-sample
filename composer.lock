@@ -7,7 +7,7 @@
     "content-hash": "fe38aabca29dca081dd2c8aecf93f5dc",
     "packages": [
         {
-            "name": "fproject/php-jwt",
+            "name": "fproject/php-jwtss",
             "version": "4.0.5",
             "source": {
                 "type": "git",
